@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PacoGago.PacoGago)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PacoGago&theme=dracula)
+
 <!--
 **PacoGago/PacoGago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
